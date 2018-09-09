@@ -6,4 +6,5 @@ module.exports = {
     navbar: false,
     search: false,
   },
+  base: '/me/',
 };

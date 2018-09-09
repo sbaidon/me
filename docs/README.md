@@ -1,8 +1,5 @@
 ---
 lang: en-US
-navbar: false
-pageClass: main
-layout: MainLayout
 contact: 
  email: 
    value: sbaidon@outlook.com
